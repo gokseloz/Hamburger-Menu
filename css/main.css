@@ -228,6 +228,13 @@
       position: relative;
       transition: transform .5s;
       transform-style: preserve-3d; }
+      .navigation-social-wrapper .icon-link span {
+        color: #fff;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        opacity: 1;
+        font-size: 1px; }
       @media (max-width: 495px) {
         .navigation-social-wrapper .icon-link {
           border: 5px solid #fff; } }
